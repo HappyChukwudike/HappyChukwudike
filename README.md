@@ -1,6 +1,5 @@
 - 👋 Hi, I’m HappyChukwudike
-- 👀 I’m interested in web app development
-- 🌱 I’m currently learning php
+- 👀 I’m interested in Data Analysis
 
 <!---
 HappyChukwudike/HappyChukwudike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
